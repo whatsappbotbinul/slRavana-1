@@ -38,7 +38,7 @@ RAVANA bot විශේෂාංග මෙන්න.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RAVANASL/indexjs#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/whatsappbotbinul/slRavana-1)
      </div>
 ### ⚠️ Warning! 
 ```
